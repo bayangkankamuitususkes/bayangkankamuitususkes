@@ -22,6 +22,6 @@ Here are some ideas to get you started:
   <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bayangkankamuitususkes&layout=compact&theme=github_dark"/>
 </div> -->
 <div align="center">
-  <img height="140em" src="https://github-readme-stats-xxxxx.vercel.app/api?username=FEandBE&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
-  <img height="140em" src="https://github-readme-stats-xxxxx.vercel.app/api/top-langs/?username=FEandBE&layout=compact&theme=github_dark"/>
+  <img height="140em" src="https://github-readme-stats.zohan.tech/api?username=FEandBE&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
+  <img height="140em" src="https://github-readme-stats.zohan.tech/api/top-langs/?username=FEandBE&layout=compact&theme=github_dark"/>
 </div>
